@@ -58,8 +58,8 @@ We love contributions! If you have suggestions or improvements, please fork the 
 
 For any questions, feel free to reach out:
 
-- **Your Name**: [your.email@example.com](mailto:your.email@example.com)
-- **GitHub**: [yourusername](https://github.com/yourusername)
+- **Your Name**: [nalanpandimadurai@gmail.com](mailto: nalanpandimadurai@gmail.com)
+- **GitHub**: [Nalan-PandiKumar](https://github.com/Nalan-PandiKumar)
 
 ## 🎊 Enjoy the Magic!
 
