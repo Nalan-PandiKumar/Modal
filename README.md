@@ -1,4 +1,3 @@
-```markdown
 # 🎉 Modal Window Magic ✨
 
 Welcome to **Modal Window Magic**! This project showcases an interactive modal window that enhances user experience on your web pages. Perfect for notifications, information displays, or any engaging content you want to highlight.
@@ -9,7 +8,6 @@ Welcome to **Modal Window Magic**! This project showcases an interactive modal w
 - **Smooth Transitions**: Experience seamless appearance and disappearance of modals.
 - **Accessibility**: Close the modal using the ESC key for better accessibility.
 - **Responsive Design**: Looks great on all devices—desktop, tablet, and mobile!
-```
 
 ## 🚀 Getting Started
 
@@ -62,7 +60,6 @@ For any questions, feel free to reach out:
 
 Thank you for checking out **Modal Window Magic**! We hope it adds some sparkle to your web projects. ✨
 
-```
 
 ### Tips for Personalization
 1. **Preview Image**: Replace the placeholder with an actual screenshot of your modal.
