@@ -16,8 +16,8 @@ Follow these simple steps to set up the project locally:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/modal-window-magic.git
-cd modal-window-magic
+git clone https://github.com/yourusername/Modal.git
+cd Modal
 ```
 
 ### 2. Open the HTML File
@@ -59,10 +59,3 @@ For any questions, feel free to reach out:
 ## 🎊 Enjoy the Magic!
 
 Thank you for checking out **Modal Window Magic**! We hope it adds some sparkle to your web projects. ✨
-
-
-### Tips for Personalization
-1. **Preview Image**: Replace the placeholder with an actual screenshot of your modal.
-2. **Repository Link**: Update the GitHub URL with your repository link.
-3. **Contact Information**: Add your details for easier communication.
-4. **Customization Section**: Encourage users to play around with the code, enhancing engagement.
