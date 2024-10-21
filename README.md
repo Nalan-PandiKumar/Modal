@@ -9,10 +9,7 @@ Welcome to **Modal Window Magic**! This project showcases an interactive modal w
 - **Smooth Transitions**: Experience seamless appearance and disappearance of modals.
 - **Accessibility**: Close the modal using the ESC key for better accessibility.
 - **Responsive Design**: Looks great on all devices—desktop, tablet, and mobile!
-
-## 📸 Preview
-
-![Modal Window Preview](path/to/your/screenshot.png)
+```
 
 ## 🚀 Getting Started
 
