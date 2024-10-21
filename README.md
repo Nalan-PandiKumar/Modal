@@ -58,7 +58,7 @@ We love contributions! If you have suggestions or improvements, please fork the 
 
 For any questions, feel free to reach out:
 
-- **Your Name**: [nalanpandimadurai@gmail.com](mailto: nalanpandimadurai@gmail.com)
+- **Name**: [NalanPandiKumar](mailto: nalanpandimadurai@gmail.com)
 - **GitHub**: [Nalan-PandiKumar](https://github.com/Nalan-PandiKumar)
 
 ## 🎊 Enjoy the Magic!
